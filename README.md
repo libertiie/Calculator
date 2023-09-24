@@ -1,6 +1,6 @@
 # Calculator
 ## About the app
-This is a simple implementation of the classic Snake game in a console window using C++ and Visual Studio 2022.
+This is a simple implementation of the Iphone calculator
 ## How to calculate
 Use buttons to input values and sign, then push the <kbd>=<kbd> button
 ## How to Build and Run
