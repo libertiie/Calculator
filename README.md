@@ -7,6 +7,7 @@ Use buttons to input values and sign, then push the <kbd> =
 - Clone this repository to your local machine.
 - Open the `WinFormsCalc\bin\Debug\net6.0-windows` folder.
 - Open WinFormsCalc.exe file.
+
 Or you can:
 - Clone this repository to your IDE.
 - Choose the Form1.cs file.
