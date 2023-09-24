@@ -12,7 +12,7 @@ namespace WinFormsCalc
 
         private void button_Click(object sender, EventArgs e)
         {
-            currentCalculation += (sender as Button).Text.Replace("+/-", "*(-1)");
+            currentCalculation += (sender as Button).Text.Replace("+/-", "*(-1)").Trim();
             textBoxOutput.Text = currentCalculation;
         }
 
@@ -30,14 +30,34 @@ namespace WinFormsCalc
             try
             {
                 textBoxOutput.Text = new DataTable().Compute(formattedCalculation, null).ToString();
-                currentCalculation = textBoxOutput.Text;
+                if (textBoxOutput.Text.Contains("не число"))
+                {
+                    textBoxOutput.Text = "NaN";
+                    currentCalculation = "";
+                }
+                currentCalculation = textBoxOutput.Text.Replace(",", ".");
+            }
+            catch (EvaluateException evEx)
+            {
+                textBoxOutput.Text = "NaN";
+                currentCalculation = "";
+            }
+            catch (DivideByZeroException dbzEx)
+            {
+                textBoxOutput.Text = "NaN";
+                currentCalculation = "";
             }
             catch (Exception ex)
             {
                 textBoxOutput.Text = "0";
                 currentCalculation = "";
             }
+
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

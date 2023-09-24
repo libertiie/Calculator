@@ -407,7 +407,7 @@
             rjButton18.Name = "rjButton18";
             rjButton18.Size = new Size(50, 50);
             rjButton18.TabIndex = 0;
-            rjButton18.Text = " .";
+            rjButton18.Text = ".";
             rjButton18.TextColor = Color.FromArgb(246, 246, 246);
             rjButton18.UseVisualStyleBackColor = false;
             rjButton18.Click += button_Click;
@@ -472,7 +472,8 @@
             Controls.Add(rjButton1);
             Controls.Add(rjButton19);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Calculator";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
