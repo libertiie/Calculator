@@ -1,0 +1,17 @@
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\bin\Debug\net6.0-windows\WinFormsCalc.exe
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\bin\Debug\net6.0-windows\WinFormsCalc.deps.json
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\bin\Debug\net6.0-windows\WinFormsCalc.runtimeconfig.json
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\bin\Debug\net6.0-windows\WinFormsCalc.dll
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\bin\Debug\net6.0-windows\WinFormsCalc.pdb
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\WinFormsCalc.Form1.resources
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\WinFormsCalc.Properties.Resources.resources
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\WinFormsCalc.csproj.GenerateResource.cache
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\WinFormsCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\WinFormsCalc.AssemblyInfoInputs.cache
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\WinFormsCalc.AssemblyInfo.cs
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\WinFormsCalc.csproj.CoreCompileInputs.cache
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\WinFormsCalc.dll
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\refint\WinFormsCalc.dll
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\WinFormsCalc.pdb
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\WinFormsCalc.genruntimeconfig.cache
+C:\Users\Valer\source\repos\other\course\WpfAppCalc\WinFormsCalc\obj\Debug\net6.0-windows\ref\WinFormsCalc.dll
